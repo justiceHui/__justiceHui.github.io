@@ -2,7 +2,7 @@
 layout: post
 title:  "ICT Award Korea 후기"
 subtitle: "사상 최악의 대회"
-date:   2017-06-11 15:16:00
+date:   2018-06-11 15:16:00
 background: '/img/bg-index.jpg'
 ---
 6 / 9에 열린 ICT Award Korea에 고등부 이산수학, 알고리즘 과목에 응시를 했습니다.<br>
