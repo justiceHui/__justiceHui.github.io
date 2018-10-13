@@ -2,7 +2,7 @@
 layout: post
 title:  "CPU/함수 잡지식"
 subtitle: "x86 cpu 레지스터, 함수 호출, cpu 캐시 등"
-date:   2017-09-30 03:49:00
+date:   2018-09-30 03:49:00
 background: '/img/bg-index.jpg'
 ---
 
